@@ -2,6 +2,10 @@
 
 Basic web application that handles HTTP requests, shortens URLs, and redirects users to the original URLs using unique shortened keys. We will us an in-memory map to store the relationships between the shortened keys and original URLs.
 
+## Requirements
+
+Only Docker is required to run this project.
+
 ## Run using Docker
 
 ```bash
