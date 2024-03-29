@@ -6,7 +6,7 @@ Basic web application that handles HTTP requests, shortens URLs, and redirects u
 
 Only Docker is required to run this project.
 
-## Run using Docker
+## Running using Docker
 
 ```bash
 docker compose run go run main.go
