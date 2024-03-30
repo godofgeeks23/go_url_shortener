@@ -18,3 +18,8 @@ docker compose run go run main.go
 docker compose run go build main.go
 ./main
 ```
+
+Now visit URL displayed in the terminal to access the web application!
+
+## Usage
+
