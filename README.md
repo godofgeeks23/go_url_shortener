@@ -21,5 +21,3 @@ docker compose run go build main.go
 
 Now visit URL displayed in the terminal to access the web application!
 
-## Usage
-
