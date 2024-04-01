@@ -4,9 +4,9 @@ Basic web application that handles HTTP requests, shortens URLs, and redirects u
 
 ## Requirements
 
-Only Docker is required to run this project.
+Only Docker is sufficient to run this project.
 
-## Running using Docker
+## Running
 
 ```bash
 docker compose run go run main.go
@@ -19,5 +19,8 @@ docker compose run go build main.go
 ./main
 ```
 
+## Usage
+
 Now visit URL displayed in the terminal to access the web application!
+Put any URL in the input field and click on the "Shorten" button to get a shortened URL. You can then use the shortened URL to redirect to the original URL.
 
