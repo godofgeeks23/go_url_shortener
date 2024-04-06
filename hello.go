@@ -1,5 +1,3 @@
-// hello world in go
-
 package main
 
 import "fmt"
