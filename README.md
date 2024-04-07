@@ -23,4 +23,3 @@ docker compose run go build main.go
 
 Now visit URL displayed in the terminal to access the web application!
 Put any URL in the input field and click on the "Shorten" button to get a shortened URL. You can then use the shortened URL to redirect to the original URL.
-
