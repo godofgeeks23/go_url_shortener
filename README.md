@@ -1,4 +1,4 @@
-# Go URL Shortener
+# Go(lang) URL Shortener
 
 Basic web application that handles HTTP requests, shortens URLs, and redirects users to the original URLs using unique shortened keys. We will us an in-memory map to store the relationships between the shortened keys and original URLs.
 
