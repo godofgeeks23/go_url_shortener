@@ -7,6 +7,7 @@ Basic web application that handles HTTP requests, shortens URLs, and redirects u
 ## Requirements
 
 Only Docker is sufficient to run this project.
+Here docker is used for building a utility image to run the project.
 
 ## Running
 
